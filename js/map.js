@@ -2,7 +2,7 @@
 let map;
 
 // path to csv data
-let path = "data/dunitz.csv";
+let path = "dunitz.csv";
 let markers = L.featureGroup();
 
 
